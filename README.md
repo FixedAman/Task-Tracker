@@ -62,7 +62,8 @@ npm run dev
 <h2>Usage</h2>
 
 <h3>Add a Task</h3>
-
+<h4>Important !</p>
+<p>After adding first task you will notice a "user_data.json" will be created.</p>
 <pre>
 add
 </pre>
