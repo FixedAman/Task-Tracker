@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "status": "done",
+      "description": "kire magi",
+      "createdAt": "2026-06-15T12:34:33.186Z",
+      "updatedAt": "2026-06-15T18:45:34.710Z"
+    },
+    {
+      "id": 3,
+      "status": "todo",
+      "description": "this elon",
+      "createdAt": "2026-06-16T05:52:19.606Z",
+      "updatedAt": "2026-06-16T05:52:19.606Z"
+    }
+  ]
+}
